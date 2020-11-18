@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nknab&show_icons=true&theme=vue-dark&count_private=true">
+<img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nknab&show_icons=true&theme=vue-dark&show_owner=true&count_private=true">
 
 <img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknab&layout=compact&count_private=true">
 
