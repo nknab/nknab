@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nknab&show_icons=true">
+<img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nknab&show_icons=true&theme=vue-dark">
 
+<img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknab&layout=compact">
 I'm [**Kojo**](https://github.com/nknab), a postgraduate in Advanced Robotics.
 
 <!--
