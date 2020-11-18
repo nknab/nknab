@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nknab&show_icons=true&theme=vue-dark">
+<img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nknab&show_icons=true&theme=vue-dark&count_private=true">
 
-<img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknab&layout=compact">
+<img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknab&layout=compact&count_private=true">
 
 I'm [**Kojo**](https://nknab.com), a MSc. Advanced Robotics student at École Centrale de Nantes. I'm a Roboticist, Drone, Formula 1 & E Enthusiast from Accra, Ghana. I aim to make a positive change in society through robotics. I very passionate about The Sustainable Development Goals especially 7, 11 & 13. I love to travel and experience other cultures.
 
