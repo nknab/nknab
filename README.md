@@ -12,9 +12,7 @@ I'm [**Kojo**](https://nknab.com), a MSc. Advanced Robotics student at École Ce
 - 🌱 I’m currently learning Computer Vision and Deep Learning.
 - 👯 I’m looking to collaborate on anything that has to do with drones.
 - ⚡ I like playing long tennis, video games and chess. Hanging out with friends and having fun. I love swimming.
-- 💬 I'm a native English speaker and have a DELF B1 in french.
-
-[**My Resume**](https://secureservercdn.net/198.71.233.106/1zm.31c.myftpupload.com/wp-content/uploads/2020/08/nknab-en_fr-CV-1.1.1b-au.pdf)
+- 💬 I'm a native English speaker and have a DELF B1 in French.
 
 
 <!--
