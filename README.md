@@ -9,7 +9,7 @@ I'm [**Kojo**](https://nknab.com), a MSc. Advanced Robotics student at École Ce
 
 
 - 🔭 I’m currently working on building a Robust Visual Detection of Drones
-- 🌱 I’m currently learning Computer Vision and Deep Learning.
+- 🌱 I’m currently learning Computer Vision, Deep Learning and Unity.
 - 👯 I’m looking to collaborate on anything that has to do with drones.
 - ⚡ I like playing long tennis, video games and chess. Hanging out with friends and having fun. I love swimming.
 - 💬 I'm a native English speaker and have a DELF B1 in French.
