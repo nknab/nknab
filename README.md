@@ -4,14 +4,14 @@
 
 <img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknab&layout=compact&count_private=true&langs_count=10&hide=HTML,CSS,CMAKE,C,Shaderlab">
 
-I'm [**Kojo**](https://nknab.com), a MSc. Advanced Robotics student at École Centrale de Nantes. I'm a Roboticist, Drone, Formula 1 & E Enthusiast from Accra, Ghana. I aim to make a positive change in society through robotics. I very passionate about The Sustainable Development Goals especially 7, 11 & 13. I love to travel and experience other cultures.
+I'm [**Kojo**](https://nknab.com), a MSc. Advanced Robotics student at École Centrale de Nantes. I'm a Roboticist, Drone, Formula 1 & E Enthusiast from Accra, Ghana. I aim to make a positive change in society through robotics. I'm very passionate about The Sustainable Development Goals especially 7, 11 & 13. I love to travel and experience other cultures.
 
 
 
 - 🔭 I’m currently working on building a Robust Visual Detection of Drones
 - 🌱 I’m currently learning Computer Vision, Deep Learning and Unity.
 - 👯 I’m looking to collaborate on anything that has to do with drones.
-- ⚡ I like playing long tennis, video games and chess. Hanging out with friends and having fun. I love swimming.
+- ⚡ I like playing long tennis, video games and chess. I also like hanging out with friends and having fun. I love swimming.
 - 💬 I'm a native English speaker and have a DELF B1 in French.
 
 
