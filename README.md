@@ -2,7 +2,7 @@
 
 <img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=nknab&show_icons=true&theme=vue-dark&show_owner=true&count_private=true">
 
-<img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknab&layout=compact&count_private=true&langs_count=6&hide=HTML,CSS,CMAKE,Shaderlab,Javascript,Go">
+<img align="right" alt="NKNAB's github stats" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nknab&layout=compact&count_private=true&langs_count=6&hide=HTML,CSS,C,CMAKE,Shaderlab,Javascript,Go">
 
 I'm [**Kojo**](https://nknab.com), a Roboticist, Drone, Formula 1 & E Enthusiast from Accra, Ghana. I aim to make a positive change in society through robotics. I'm very passionate about The Sustainable Development Goals especially 7, 11 & 13. I love to travel and experience other cultures.
 
