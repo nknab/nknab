@@ -8,7 +8,6 @@ I'm [**Kojo**](https://nknab.com), a Roboticist, Drone, Formula 1 & E Enthusiast
 
 
 
-- 🔭 I’m currently working on my Software Engineering Skills in C++.
 - 👯 I’m looking to collaborate on anything that has to do with drones.
 - ⚡ I like playing long tennis, video games and chess. I also like hanging out with friends and having fun. I love swimming.
 - 💬 I'm a native English speaker and have a DELF B1 in French.
